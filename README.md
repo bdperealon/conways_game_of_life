@@ -1,2 +1,2 @@
 # conways_game_of_life
-Conway's game of life whith pygame
+Conway's game of life with pygame
